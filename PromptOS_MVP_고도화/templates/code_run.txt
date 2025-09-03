@@ -1,0 +1,1 @@
+Execute the following Python command for a {audience} audience using a {tense} tense: python {command}

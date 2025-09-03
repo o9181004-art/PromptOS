@@ -1,0 +1,1 @@
+Respond to the customer's complaint in a {tone} tone, addressing the key concerns.

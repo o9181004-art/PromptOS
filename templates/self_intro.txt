@@ -1,0 +1,10 @@
+다음 내용을 포함하여 자기소개서를 작성하세요:
+
+- 지원 동기 또는 목적: {motivation}
+- 본인의 핵심 역량 또는 기술: {strengths}
+- 관련된 과거 경험이나 성과: {experience}
+- 향후 목표나 포부: {goals}
+
+어조: {tone}
+시제: {tense}
+대상: {audience}

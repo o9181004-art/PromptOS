@@ -1,0 +1,24 @@
+[Template] This is template 2 for intent `general_request`. Please fill in {placeholder1} and {placeholder2}.
+
+사용자 요청: {user_utterance}
+의도: {intent}
+도메인: {domain}
+톤: {tone}
+시제: {tense}
+대상: {audience}
+
+추가 정보:
+- {additional_info_1}
+- {additional_info_2}
+- {additional_info_3}
+
+프롬프트 생성 지침:
+1. {instruction_1}
+2. {instruction_2}
+3. {instruction_3}
+
+출력 형식:
+{output_format}
+
+예시:
+{example_output}

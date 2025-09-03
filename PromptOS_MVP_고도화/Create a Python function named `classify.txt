@@ -1,0 +1,9 @@
+Create a Python function named `classify_intent(text)` that determines the user's intent based on keyword matching.
+
+Intent categories and keywords are:
+
+- "summary": ["summary", "summarize", "shorten"]
+- "self_intro": ["introduction", "apply", "strength"]
+- "customer_reply": ["customer", "complaint", "response"]
+
+Return the corresponding intent name if a keyword is matched, otherwise return "unknown".

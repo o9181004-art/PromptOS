@@ -1,0 +1,2 @@
+다음 Python 명령어를 {audience}를 대상으로, {tense} 시제로 설명하세요:  
+python {command}

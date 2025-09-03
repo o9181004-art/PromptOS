@@ -1,0 +1,31 @@
+[System Instruction]
+
+사용자의 요청은 다음과 같습니다:  
+"{user_utterance}"  
+
+이 요청은 다음과 같은 조건으로 분류되었습니다:  
+- 주요 작업 목적 (intent): {intent}  
+- 세부 유형 (sub_intent): {sub_intent}  
+- 주제 도메인 (domain): {domain}  
+- 어조 (tone): {tone}  
+- 시제 (tense): {tense}  
+- 대상 청중 (audience): {audience}  
+
+위 조건에 따라 다음과 같은 정부 제출용 AI 제안서를 작성하세요.  
+
+[User Prompt Template]
+
+제안서 구성은 다음과 같아야 합니다:  
+1. 요약 (Executive Summary)  
+2. 문제 정의 (Problem Statement)  
+3. AI 기반 해결방안 (AI-based Solution)  
+4. 정책 및 제도 연계 (Policy Relevance)  
+5. 기대 효과 및 성과 지표 (Expected Impact)  
+6. 예산 및 추진 일정 (Budget and Timeline)  
+
+작성 조건:  
+- 문체: {tone}  
+- 시제: {tense}  
+- 독자 대상: {audience}  
+- 사실 기반으로만 작성, 허구 데이터 생성 금지  
+- 정책적 용어 사용 권장  

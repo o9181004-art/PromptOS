@@ -1,0 +1,21 @@
+다음 요청에 맞는 AI 제안서를 작성해주세요:
+
+사용자 요청: {user_utterance}
+제안 분야: {proposal_field}
+핵심 기술: {core_technology}
+적용 분야: {application_area}
+기대 효과: {expected_effect}
+투자 규모: {investment_scale}
+
+위 정보를 바탕으로 다음 구조로 AI 제안서를 작성해주세요:
+
+1. 제안 개요
+2. 기술적 배경
+3. 솔루션 제안
+4. 구현 계획
+5. 기대 효과
+6. 투자 계획
+
+어조: {tone}
+시제: {tense}
+대상: {audience} 

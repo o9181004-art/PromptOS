@@ -1,0 +1,21 @@
+다음 요청에 맞는 사업계획서를 작성해주세요:
+
+사용자 요청: {user_utterance}
+사업 분야: {business_field}
+핵심 아이템/서비스: {core_item}
+목표 시장: {target_market}
+차별화 요소: {differentiation}
+수익 모델: {revenue_model}
+
+위 정보를 바탕으로 다음 구조로 사업계획서를 작성해주세요:
+
+1. 사업 개요
+2. 시장 분석
+3. 사업 모델
+4. 마케팅 전략
+5. 재무 계획
+6. 위험 요소 및 대응 방안
+
+어조: {tone}
+시제: {tense}
+대상: {audience} 

@@ -1,0 +1,48 @@
+
+[2025-07-30 20:24:26] PROMPT_GENERATION_ERROR
+Input: 'AI 기반 제안서를 정부에 제출할거야'
+Error: name 'extract_conditions' is not defined
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\LeeSG\Desktop\PromptOS_MVP_고도화작업\app.py", line 576, in <module>
+    conditions = extract_conditions(utterance)
+                 ^^^^^^^^^^^^^^^^^^
+NameError: name 'extract_conditions' is not defined
+
+================================================================================
+
+[2025-07-30 20:46:37] PROMPT_GENERATION_ERROR
+Input: 'AI 기반 제안서를 정부에 제출할거야'
+Error: name 'extract_conditions' is not defined
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\LeeSG\Desktop\PromptOS_MVP_고도화작업\app.py", line 577, in <module>
+    conditions = extract_conditions(utterance)
+                 ^^^^^^^^^^^^^^^^^^
+NameError: name 'extract_conditions' is not defined
+
+================================================================================
+
+[2025-07-30 20:50:09] PROMPT_GENERATION_ERROR
+Input: '예비창업자 패키지 사업계획서를 작성할거야. 아이템은 프롬프트os'
+Error: name 'keyword_classifier' is not defined
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\LeeSG\Desktop\PromptOS_MVP_고도화작업\app.py", line 622, in <module>
+    keyword_intent, keyword_confidence = keyword_classifier.classify_by_keywords(utterance)
+                                         ^^^^^^^^^^^^^^^^^^
+NameError: name 'keyword_classifier' is not defined
+
+================================================================================
+
+[2025-07-30 20:51:37] PROMPT_GENERATION_ERROR
+Input: 'AI 기반 제안서를 정부에 제출할거야'
+Error: name 'llm_intent' is not defined
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\LeeSG\Desktop\PromptOS_MVP_고도화작업\app.py", line 712, in <module>
+    logger.info(f"새로운 템플릿 시스템 사용: {llm_intent}")
+                                              ^^^^^^^^^^
+NameError: name 'llm_intent' is not defined. Did you mean: 'sub_intent'?
+
+================================================================================

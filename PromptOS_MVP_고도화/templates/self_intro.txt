@@ -1,0 +1,11 @@
+Write a self-introduction with the following details:
+
+Tone: {tone}  
+Tense: {tense}  
+Audience: {audience}  
+
+Include the following key points:
+- Your motivation or reason for applying
+- Your key strength or skill
+- A relevant past experience or accomplishment
+- Your future aspiration or goal
