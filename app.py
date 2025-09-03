@@ -698,7 +698,7 @@ with right_col:
         for example in examples:
             if st.button(f"'{example}'", key=f"example_{hash(example)}", use_container_width=True):
                 st.session_state.selected_example = example
-                st.experimental_rerun()
+                st.rerun()
         st.markdown('</div>', unsafe_allow_html=True)
 
 # Follow-up 모드에서 선택된 의도 처리
